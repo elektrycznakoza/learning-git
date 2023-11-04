@@ -1,1 +1,1 @@
-print('git jest jakiś inny')
+print('git jest jakiś inny, ale nie taki trudny')
